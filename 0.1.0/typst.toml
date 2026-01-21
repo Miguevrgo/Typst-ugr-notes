@@ -10,10 +10,9 @@ repository = "https://github.com/Miguevrgo/Typst-ugr-notes"
 keywords = ["UGR", "notes", "academic", "university", "Granada", "spanish", "math"]
 categories = ["report", "components"]
 disciplines = ["mathematics", "engineering", "computer-science"]
-exclude = [".gitignore", "main.pdf"]
+exclude = ["main.pdf", ".gitignore"]
 
 [template]
 path = "template"
 entrypoint = "main.typ"
 thumbnail = "thumbnail.png"
-exclude = ["main.pdf"]

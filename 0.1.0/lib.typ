@@ -2,7 +2,7 @@
 // ║           UGR Notes - Professional Template for Academic Writing     ║
 // ║       Designed for University of Granada Students & Researchers      ║
 // ║                                                                      ║
-// ║   Repository: https://github.com/typst/typst-packages                ║
+// ║   Repository: https://github.com/Miguevrgo/Typst-ugr-notes           ║
 // ║   License: MIT                                                       ║
 // ╚══════════════════════════════════════════════════════════════════════╝
 

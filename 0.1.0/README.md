@@ -138,7 +138,7 @@ The template uses a professional color scheme:
   author: "Miguel Ángel De la Vega Rodriguez",
   academic-year: "Curso 2025-2026",
   logo: "UGR-Logo.png",
-  github: "https://github.com/miguevr",
+  github: "https://github.com/Miguevrgo",
 )
 
 = Chapter 1: Basic Concepts
@@ -179,4 +179,4 @@ This template is released under the MIT License. See LICENSE file for details.
 
 ## Support
 
-For issues, feature requests, or improvements, please visit the [GitHub repository](https://github.com/miguevr/typst-template-ugr).
+For issues, feature requests, or improvements, please visit the [GitHub repository](https://github.com/Miguevrgo/Typst-ugr-notes).
