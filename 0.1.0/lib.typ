@@ -49,6 +49,10 @@
     "table-of-contents": "Table of Contents",
   ),
 )
+#let get-translation(key, lang: "es") = {
+  let dictionary = language-translations.at(lang, default: language-translations.es)
+  dictionary.at(key, default: key)
+}
 
 // Translation map available for consumers; internal helpers must use it directly.
 // Generic color-box for mathematical environments
